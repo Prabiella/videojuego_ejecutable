@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845037091823",
+    "project_id": "dbunityudg",
+    "storage_bucket": "dbunityudg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845037091823:android:82681942196c652fca141a",
+        "android_client_info": {
+          "package_name": "com.udgvideojuego.Unity2Dvideogame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdVIl3eigyVloX6yRPpOaJdu5eHHMUgJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
